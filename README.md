@@ -1,4 +1,5 @@
 Drum Machine
+
 Overview
 This project is a React-based drum machine application that allows users to play different sounds by clicking on interactive pads or pressing corresponding keyboard keys. It features a responsive design, volume control, and a power switch.
 
